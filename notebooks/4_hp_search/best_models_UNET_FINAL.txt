@@ -1,0 +1,104 @@
+Results summary
+Results in ../Models/UNET/KT/CNN
+Showing 10 best trials
+Objective(name="val_metric_accuracy", direction="max")
+
+Trial 054 summary
+Hyperparameters:
+F_UNET: 18
+units0: 240
+units1: 420
+dropout: 4
+optimizer: sgd
+learning_rate: 1e-06
+Score: 94.66105270385742
+
+Trial 081 summary
+Hyperparameters:
+F_UNET: 8
+units0: 330
+units1: 270
+dropout: 16
+optimizer: sgd
+learning_rate: 1e-06
+Score: 93.60144424438477
+
+Trial 171 summary
+Hyperparameters:
+F_UNET: 14
+units0: 370
+units1: 200
+dropout: 10
+optimizer: sgd
+learning_rate: 1e-06
+Score: 92.75961685180664
+
+Trial 128 summary
+Hyperparameters:
+F_UNET: 10
+units0: 190
+units1: 80
+dropout: 0
+optimizer: sgd
+learning_rate: 1e-06
+Score: 92.59440231323242
+
+Trial 046 summary
+Hyperparameters:
+F_UNET: 18
+units0: 370
+units1: 300
+dropout: 4
+optimizer: sgd
+learning_rate: 1e-06
+Score: 92.48405456542969
+
+Trial 022 summary
+Hyperparameters:
+F_UNET: 18
+units0: 420
+units1: 430
+dropout: 4
+optimizer: sgd
+learning_rate: 1e-06
+Score: 92.29487609863281
+
+Trial 090 summary
+Hyperparameters:
+F_UNET: 14
+units0: 410
+units1: 240
+dropout: 12
+optimizer: sgd
+learning_rate: 1e-06
+Score: 91.99601364135742
+
+Trial 217 summary
+Hyperparameters:
+F_UNET: 18
+units0: 370
+units1: 180
+dropout: 6
+optimizer: sgd
+learning_rate: 1e-06
+Score: 91.12126159667969
+
+Trial 114 summary
+Hyperparameters:
+F_UNET: 6
+units0: 60
+units1: 350
+dropout: 14
+optimizer: sgd
+learning_rate: 1e-06
+Score: 91.01743698120117
+
+Trial 027 summary
+Hyperparameters:
+F_UNET: 18
+units0: 50
+units1: 420
+dropout: 6
+optimizer: sgd
+learning_rate: 1e-06
+Score: 90.79744720458984
